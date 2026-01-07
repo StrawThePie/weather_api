@@ -14,8 +14,6 @@ Created for https://roadmap.sh/projects/weather-api-wrapper-service
 
 ## Testing
 
-## Testing
-
 Run the automated tests:
 
 ```bash
